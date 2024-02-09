@@ -255,7 +255,7 @@ This library contains automatically generated Haskell types for all TDLib API me
 
 TDLib can be used from the Nim programming language.
 
-See [telenim](https://github.com/Yardanico/telenim) for example of such usage and a Nim wrapper for TDLib.
+See [nimgram](https://github.com/nimgram/nimgram) for example of such usage and a Nim wrapper for TDLib.
 
 <a name="clojure"></a>
 ## Using TDLib in Clojure projects
